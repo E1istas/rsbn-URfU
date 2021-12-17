@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\sshv2\source\repos\Проект\Проект\main.cpp(45,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sshv2\source\repos\Проект\Проект\main.cpp(81,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sshv2\source\repos\Проект\Проект\main.cpp(86,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sshv2\source\repos\Проект\Проект\main.cpp(86,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Проект.vcxproj -> C:\Users\sshv2\source\repos\Проект\Debug\Проект.exe
